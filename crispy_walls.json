@@ -1,0 +1,25 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "FlatEdge",
+			"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper1.png",
+			"name": "wallpaper1"
+		},
+		{
+			"author": "FlatEdge",
+			"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper2.png",
+			"name": "wallpaper2"
+		},
+		{
+			"author": "FlatEdge",
+			"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper3.png",
+			"name": "wallpaper3"
+		},
+		{
+			"author": "FlatEdge",
+			"url": "https://raw.githubusercontent.com/Sekhar1418/CrispyWalls/master/wallpaper4.png",
+			"name": "wallpaper4"
+		}
+	]
+}
