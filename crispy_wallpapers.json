@@ -1,0 +1,53 @@
+{ 
+"Wallpapers":
+	[
+		{
+			"author": "FlatEdge",
+		  	"url": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper1.png",
+		  	"thumbUrl": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper1.png",
+			"name": "wallpaper1"
+		},
+		{
+			"author": "FlatEdge",
+		  	"url": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper2.png",
+		  	"thumbUrl": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper2.png",
+			"name": "wallpaper2"
+		},
+		{
+			"author": "FlatEdge",
+		  	"url": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper3.png",
+		  	"thumbUrl": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper3.png",
+			"name": "wallpaper3"
+		},
+		{
+			"author": "FlatEdge",
+		 	"url": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper4.png",
+		  	"thumbUrl": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper4.png",
+			"name": "wallpaper4"
+		},
+	  {
+		"author": "FlatEdge",
+		"url": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper5.png",
+		"thumbUrl": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper5.png",
+		"name": "wallpaper5"
+	  },
+	  {
+		"author": "FlatEdge",
+		"url": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper6.png",
+		"thumbUrl": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper6.png",
+		"name": "wallpaper6"
+	  },
+	  {
+		"author": "FlatEdge",
+		"url": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper7.png",
+		"thumbUrl": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper7.png",
+		"name": "wallpaper7"
+	  },
+	  {
+		"author": "FlatEdge",
+		"url": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper8.png",
+		"thumbUrl": "https://raw.githubusercontent.com/Sekhar1418/AroundWalls/master/wallpaper8.png",
+		"name": "wallpaper8"
+	  }
+	]
+}
